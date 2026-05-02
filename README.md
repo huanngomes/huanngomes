@@ -26,6 +26,13 @@ Me chamo Nivisson Huann , sou natural de Campina Grande – PB. Atualmente, esto
             src="https://custom-icon-badges.demolab.com/badge/-Email-red?style=for-the-badge&logo=mention&logoColor=white"
         />
     </a>
+    <a href="https://www.linkedin.com/in/huann-gomes-87402b239/">
+        <img 
+            alt="linkedin" 
+            title="linkedin" 
+            src="https://custom-icon-badges.demolab.com/badge/-Linkedin-blue?style=for-the-badge&logo=workflow&logoColor=white"
+        />
+    </a>
 </p>
 
 ---
